@@ -1,1 +1,3 @@
 # Subgroup-Treatment-Effect
+Randomized controlled trials (RCTs) are reliable to answer questions related to causality, specifically regarding the safety or effectiveness of interventions. Randomly assigning large populations to treatment groups helps to ensure that the effects of both known and unknown factors are evenly distributed. However, it is possible that the treatment may have varying effects on different patients within the same group.
+This simulation study was designed to mimic a scenario in which a drug performed differently in a specific subgroup of patients than it does in the general population.
